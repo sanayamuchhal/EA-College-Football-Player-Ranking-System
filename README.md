@@ -20,7 +20,6 @@ that ranks players based on their weekly performance statistics.
 •RankingEntry
 •RivalTracker
 •RankingSystem
-## Class Diagram
 
 ## Author
 Sanaya Muchhal
